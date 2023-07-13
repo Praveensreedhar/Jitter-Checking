@@ -39,7 +39,7 @@ def check_jitter(expected_interval, destination_address, destination_port):
 expected_interval = 1.0
 
 # Specify the destination address and port
-destination_address = '203.99.40.1'  # Example IP address
+destination_address = '1.1.1.1'  # Example IP address
 destination_port = 443  # Example port number
 
 # Call the function to check jitter
